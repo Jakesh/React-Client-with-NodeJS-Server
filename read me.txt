@@ -1,0 +1,5 @@
+installing all the dependencies
+>> yarn install --ignore-engines
+
+running the react client
+>> yarn start

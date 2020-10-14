@@ -3,3 +3,5 @@ installing all the dependencies
 
 running the react client
 >> yarn start
+
+for the nodeJS part of this project got to https://github.com/Jakesh/nodeJS-backend-coursera-/tree/master/conFusionServer and follow the instruction given in readme.txt and run both the nodeJS and mongooseDB. 
